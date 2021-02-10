@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "kewerewe",
+      "id": 3
+    },
+    {
+      "content": "gobeze leje neberk",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "hussen",
+      "number": "040-548999",
+      "id": 2
+    },
+    {
+      "name": "ddddd",
+      "number": "33333",
+      "id": 3
+    },
+    {
+      "name": "awel",
+      "number": "99999",
+      "id": 4
+    },
+    {
+      "name": "awelyu",
+      "number": "999997777",
+      "id": 5
+    },
+    {
+      "name": "gemechu ",
+      "number": "09111228",
+      "id": 6
+    }
+  ]
+}
